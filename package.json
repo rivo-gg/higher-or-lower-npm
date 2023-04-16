@@ -1,0 +1,29 @@
+{
+  "name": "higher-or-lower",
+  "version": "0.0.1",
+  "description": "Higher or lower api",
+  "main": "index.ts",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mezotv/higher-or-lower-npm.git"
+  },
+  "keywords": [
+    "Npm"
+  ],
+  "author": "Dominik Development",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mezotv/higher-or-lower-npm/issues"
+  },
+  "homepage": "https://github.com/mezotv/higher-or-lower-npm#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
