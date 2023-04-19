@@ -1,8 +1,9 @@
-import HigherOrLower from "./higherorlower";
+const HigherOrLower = require("./src/higherorlower")
 
-export default {
+module.exports = {
   hol: HigherOrLower,
   HigherOrLower,
+  random: HigherOrLower.random,
   author: require("./package.json").author,
   version: require("./package.json").version,
 };

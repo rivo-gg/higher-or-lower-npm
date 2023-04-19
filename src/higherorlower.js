@@ -1,6 +1,6 @@
-import randomItem from "./functions/random";
+const {randomItem} = require ("./functions/random");
 
-export default class HigherOrLower {
+class HigherOrLower {
   /**
    * **⚠ You may not instantiate the Canvabase class! ⚠**
    * @hideconstructor
@@ -20,5 +20,6 @@ export default class HigherOrLower {
     return randomItem();
   }
 
-  // http://api.higherlowergame.com/_client/images/general/IMAGE
 }
+
+module.exports = HigherOrLower;

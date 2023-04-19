@@ -255,7 +255,7 @@
     "keyword": "Teletubbies",
     "searchVolume": 1220000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "teletubbies.jpg"
   },
   {
@@ -325,7 +325,7 @@
     "keyword": "The Diary Of Anne Frank",
     "searchVolume": 90500,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-diary-of-anne-frank.jpg"
   },
   {
@@ -444,7 +444,7 @@
     "keyword": "Mirrors Edge",
     "searchVolume": 135000,
     "author": "Original Material",
-    "link": "",
+    "link": null,
     "image": "mirrors-edge.jpg"
   },
   {
@@ -528,7 +528,7 @@
     "keyword": "Overwatch",
     "searchVolume": 5000000,
     "author": "Original Material",
-    "link": "",
+    "link": null,
     "image": "overwatch.jpg"
   },
   {
@@ -661,7 +661,7 @@
     "keyword": "Curb Your Enthusiasm",
     "searchVolume": 368000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "curb-your-enthusiasm.jpg"
   },
   {
@@ -724,7 +724,7 @@
     "keyword": "Narcos",
     "searchVolume": 1500000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "narcos.jpg"
   },
   {
@@ -752,7 +752,7 @@
     "keyword": "IP Address",
     "searchVolume": 550000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "ip-address.jpg"
   },
   {
@@ -822,7 +822,7 @@
     "keyword": "The Colour Purple",
     "searchVolume": 110000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-colour-purple.jpg"
   },
   {
@@ -1053,7 +1053,7 @@
     "keyword": "Downton Abbey",
     "searchVolume": 673000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "downton-abbey.jpg"
   },
   {
@@ -1144,7 +1144,7 @@
     "keyword": "Love Island",
     "searchVolume": 1500000,
     "author": "Screenshot",
-    "link": "",
+    "link": null,
     "image": "love-island.jpg"
   },
   {
@@ -1354,7 +1354,7 @@
     "keyword": "Dark Souls III",
     "searchVolume": 74000,
     "author": "Original Material",
-    "link": "",
+    "link": null,
     "image": "dark-souls-iii.jpg"
   },
   {
@@ -1368,7 +1368,7 @@
     "keyword": "Street Fighter V",
     "searchVolume": 110000,
     "author": "Original Material",
-    "link": "",
+    "link": null,
     "image": "street-fighter-v.jpg"
   },
   {
@@ -1606,7 +1606,7 @@
     "keyword": "Top Gear",
     "searchVolume": 673000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "top-gear.jpg"
   },
   {
@@ -2096,14 +2096,14 @@
     "keyword": "Indeed",
     "searchVolume": 24900000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "indeed.jpg"
   },
   {
     "keyword": "Man on Wire",
     "searchVolume": 27100,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "man-on-wire.jpg"
   },
   {
@@ -2306,7 +2306,7 @@
     "keyword": "Uncharted 4",
     "searchVolume": 673000,
     "author": "Commercial Free",
-    "link": "",
+    "link": null,
     "image": "uncharted-4.jpg"
   },
   {
@@ -2425,7 +2425,7 @@
     "keyword": "Mad Men",
     "searchVolume": 550000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "mad-men.jpg"
   },
   {
@@ -2789,7 +2789,7 @@
     "keyword": "The Glass Castle",
     "searchVolume": 450000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-glass-castle.jpg"
   },
   {
@@ -2831,7 +2831,7 @@
     "keyword": "Find my iPhone",
     "searchVolume": 1830000,
     "author": "TonyFoggett",
-    "link": "",
+    "link": null,
     "image": "find-my-iphone.jpg"
   },
   {
@@ -2901,7 +2901,7 @@
     "keyword": "Six Feet Under",
     "searchVolume": 135000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "six-feet-under.jpg"
   },
   {
@@ -3398,7 +3398,7 @@
     "keyword": "Hotmail",
     "searchVolume": 338000000,
     "author": "Screenshot",
-    "link": "",
+    "link": null,
     "image": "hotmail.jpg"
   },
   {
@@ -3454,7 +3454,7 @@
     "keyword": "Outlook",
     "searchVolume": 68000000,
     "author": "Screenshot",
-    "link": "",
+    "link": null,
     "image": "outlook.jpg"
   },
   {
@@ -3510,7 +3510,7 @@
     "keyword": "Mobile Strike",
     "searchVolume": 450000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "mobile-strike.jpg"
   },
   {
@@ -3587,14 +3587,14 @@
     "keyword": "The Hitchhikers Guide To The Galaxy",
     "searchVolume": 201000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-hitchhikers-guide-to-the-galaxy.jpg"
   },
   {
     "keyword": "Vandalism",
     "searchVolume": 450000,
     "author": "iStockPhoto",
-    "link": "",
+    "link": null,
     "image": "vandalism.jpg"
   },
   {
@@ -3615,7 +3615,7 @@
     "keyword": "The Office",
     "searchVolume": 823000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-office.jpg"
   },
   {
@@ -3629,7 +3629,7 @@
     "keyword": "Person of Interest",
     "searchVolume": 368000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "person-of-interest.jpg"
   },
   {
@@ -3748,7 +3748,7 @@
     "keyword": "I'm Alan Partridge",
     "searchVolume": 4400,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "im-alan-partridge.jpg"
   },
   {
@@ -3839,7 +3839,7 @@
     "keyword": "Peaky Blinders",
     "searchVolume": 1500000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "peaky-blinders.jpg"
   },
   {
@@ -4245,7 +4245,7 @@
     "keyword": "Seinfeld",
     "searchVolume": 450000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "seinfeld.jpg"
   },
   {
@@ -4413,7 +4413,7 @@
     "keyword": "Mafia 3",
     "searchVolume": 301000,
     "author": "Original Material",
-    "link": "",
+    "link": null,
     "image": "mafia-3.jpg"
   },
   {
@@ -4511,7 +4511,7 @@
     "keyword": "Lacoste",
     "searchVolume": 1830000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "lacoste.jpg"
   },
   {
@@ -4833,7 +4833,7 @@
     "keyword": "Thunderbirds",
     "searchVolume": 110000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "thunderbirds.jpg"
   },
   {
@@ -5127,7 +5127,7 @@
     "keyword": "The West Wing",
     "searchVolume": 74000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-west-wing.jpg"
   },
   {
@@ -5386,7 +5386,7 @@
     "keyword": "South Park",
     "searchVolume": 1830000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "south-park.jpg"
   },
   {
@@ -5603,7 +5603,7 @@
     "keyword": "Fifa 17",
     "searchVolume": 3350000,
     "author": "Original Material",
-    "link": "",
+    "link": null,
     "image": "fifa-17.jpg"
   },
   {
@@ -5694,7 +5694,7 @@
     "keyword": "Brave New World",
     "searchVolume": 201000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "brave-new-world.jpg"
   },
   {
@@ -5981,7 +5981,7 @@
     "keyword": "Bulimia",
     "searchVolume": 550000,
     "author": "iStockPhoto",
-    "link": "",
+    "link": null,
     "image": "bulimia.jpg"
   },
   {
@@ -6044,7 +6044,7 @@
     "keyword": "Don Quixote",
     "searchVolume": 165000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "don-quixote.jpg"
   },
   {
@@ -6226,7 +6226,7 @@
     "keyword": "Cool Runnings",
     "searchVolume": 135000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "cool-runnings.jpg"
   },
   {
@@ -6723,7 +6723,7 @@
     "keyword": "Only Fools and Horses",
     "searchVolume": 90500,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "only-fools-and-horses.jpg"
   },
   {
@@ -6933,7 +6933,7 @@
     "keyword": "Star Trek",
     "searchVolume": 1220000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "star-trek.jpg"
   },
   {
@@ -7381,7 +7381,7 @@
     "keyword": "The Establishment",
     "searchVolume": 14800,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-establishment.jpg"
   },
   {
@@ -7451,7 +7451,7 @@
     "keyword": "Sherlock",
     "searchVolume": 1220000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "sherlock.jpg"
   },
   {
@@ -7472,7 +7472,7 @@
     "keyword": "The Stand",
     "searchVolume": 74000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-stand.jpg"
   },
   {
@@ -7577,7 +7577,7 @@
     "keyword": "The Sopranos",
     "searchVolume": 201000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-sopranos.jpg"
   },
   {
@@ -7619,7 +7619,7 @@
     "keyword": "Twin Peaks",
     "searchVolume": 1830000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "twin-peaks.jpg"
   },
   {
@@ -7829,7 +7829,7 @@
     "keyword": "Grand Canyon",
     "searchVolume": 823000,
     "author": "DianeFurze",
-    "link": "",
+    "link": null,
     "image": "grand-canyon.jpg"
   },
   {
@@ -8046,7 +8046,7 @@
     "keyword": "Scrubs",
     "searchVolume": 550000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "scrubs.jpg"
   },
   {
@@ -8340,7 +8340,7 @@
     "keyword": "Tinder",
     "searchVolume": 13600000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "tinder.jpg"
   },
   {
@@ -8431,7 +8431,7 @@
     "keyword": "Feminism",
     "searchVolume": 550000,
     "author": "iStockPhoto",
-    "link": "",
+    "link": null,
     "image": "feminism.jpg"
   },
   {
@@ -8543,7 +8543,7 @@
     "keyword": "Arrested Development",
     "searchVolume": 368000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "arrested-development.jpg"
   },
   {
@@ -8690,7 +8690,7 @@
     "keyword": "True Detective",
     "searchVolume": 450000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "true-detective.jpg"
   },
   {
@@ -8851,7 +8851,7 @@
     "keyword": "Of Mice And Men",
     "searchVolume": 246000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "of-mice-and-men.jpg"
   },
   {
@@ -8865,7 +8865,7 @@
     "keyword": "The Secret Garden",
     "searchVolume": 90500,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-secret-garden.jpg"
   },
   {
@@ -9250,7 +9250,7 @@
     "keyword": "Auschwitz",
     "searchVolume": 823000,
     "author": "DanielJamesFurze",
-    "link": "",
+    "link": null,
     "image": "auschwitz.jpg"
   },
   {
@@ -9299,7 +9299,7 @@
     "keyword": "The Chimp Paradox",
     "searchVolume": 18100,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-chimp-paradox.jpg"
   },
   {
@@ -9334,7 +9334,7 @@
     "keyword": "Huffington Post",
     "searchVolume": 7480000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "huffington-post.jpg"
   },
   {
@@ -9593,7 +9593,7 @@
     "keyword": "The Psychopath Test",
     "searchVolume": 9900,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-psychopath-test.jpg"
   },
   {
@@ -9733,7 +9733,7 @@
     "keyword": "How I Met Your Mother",
     "searchVolume": 1000000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "how-i-met-your-mother.jpg"
   },
   {
@@ -9936,7 +9936,7 @@
     "keyword": "24",
     "searchVolume": 5000000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "24.jpg"
   },
   {
@@ -10475,7 +10475,7 @@
     "keyword": "Fawlty Towers",
     "searchVolume": 90500,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "fawlty-towers.jpg"
   },
   {
@@ -10503,14 +10503,14 @@
     "keyword": "Charlotte's Web",
     "searchVolume": 165000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "charlotte's-web.jpg"
   },
   {
     "keyword": "The Wonder Years",
     "searchVolume": 74000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-wonder-years.jpg"
   },
   {
@@ -10790,7 +10790,7 @@
     "keyword": "Michael Jackson",
     "searchVolume": 4090000,
     "author": "jcrosemann",
-    "link": "",
+    "link": null,
     "image": "michael-jackson.jpg"
   },
   {
@@ -10825,7 +10825,7 @@
     "keyword": "The Catcher in the Rye",
     "searchVolume": 246000,
     "author": "Code Computerlove",
-    "link": "",
+    "link": null,
     "image": "the-catcher-in-the-rye.jpg"
   },
   {

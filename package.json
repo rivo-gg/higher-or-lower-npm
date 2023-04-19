@@ -2,17 +2,16 @@
   "name": "higher-or-lower",
   "version": "0.0.1",
   "description": "Higher or lower api",
-  "main": "index.ts",
-  "type": "module",
-  "directories": {
-    "test": "test"
-  },
+  "main": "index.js",
+  "typings": "./typings/index.d.ts",
   "scripts": {
-    "test": "ts-node index.ts"
+    "test": "node test/index.js",
+    "generate-docs": "jsdoc --configure jsdoc.json --verbose",
+    "generate-typings": "tsc"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mezotv/higher-or-lower-npm.git"
+    "url": "git+https://github.com/Dominik-Development/higher-or-lower-npm.git"
   },
   "keywords": [
     "Npm"
@@ -20,10 +19,12 @@
   "author": "Dominik Development",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mezotv/higher-or-lower-npm/issues"
+    "url": "https://github.com/Dominik-Development/higher-or-lower-npm/issues"
   },
-  "homepage": "https://github.com/mezotv/higher-or-lower-npm#readme",
-  "dependencies": {
-    "fs": "^0.0.1-security"
-  }
+  "homepage": "https://github.com/Dominik-Development/higher-or-lower-npm#readme",
+    "devDependencies": {
+      "@types/node": "^18.11.18",
+      "clean-jsdoc-theme": "^4.1.10",
+      "typescript": "^4.9.4"
+    }
 }

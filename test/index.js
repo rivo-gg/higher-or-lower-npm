@@ -1,3 +1,3 @@
-import HigherOrLower from "../common/index.js";
+const HigherOrLower = require("../index.js");
 
-console.log(HigherOrLower);
+console.log(HigherOrLower.random());
