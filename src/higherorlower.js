@@ -1,8 +1,8 @@
-const {randomItem} = require ("./functions/random");
+const { randomItem } = require("./functions/random");
 
 class HigherOrLower {
   /**
-   * **⚠ You may not instantiate the Canvabase class! ⚠**
+   * **⚠ You may not instantiate the HigherOrLower class! ⚠**
    * @hideconstructor
    */
   constructor() {
@@ -19,7 +19,6 @@ class HigherOrLower {
   static random() {
     return randomItem();
   }
-
 }
 
 module.exports = HigherOrLower;
